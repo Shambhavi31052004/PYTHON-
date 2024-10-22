@@ -1,0 +1,5 @@
+print("Hello World")
+print(17*4)
+print(12/6)
+print(12+87)
+print(12-4)
